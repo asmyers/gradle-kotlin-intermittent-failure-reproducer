@@ -1,0 +1,3 @@
+= Some document
+
+Writing smart things about software.

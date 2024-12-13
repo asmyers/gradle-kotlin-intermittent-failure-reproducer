@@ -1,0 +1,6 @@
+= Gradle Errors
+
+Attempt to create a reproducer of link:https://youtrack.jetbrains.com/issue/KT-72550[KT-72550].
+
+When the daemon is in the failed state this is the error from this project.
+
